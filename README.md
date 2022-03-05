@@ -15,7 +15,7 @@ pip2 install bs4
 
 pip2 install futures
 
-https://github.com/Mbokey/simlpe-v2
+git clone https://github.com/Mbokey/simlpe-v2
 
 cd simlpe-v2
 
