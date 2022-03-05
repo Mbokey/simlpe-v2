@@ -25,4 +25,6 @@ git clone https://github.com/Mbokey/simlpe-v2
 
 cd simlpe-v2
 
+git pull
+
 python2 simple-v2.py
